@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.2)
+  - PKHUD (5.2.1)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftDate (5.1.0)
+  - SwiftMessages (7.0.0):
+    - SwiftMessages/App (= 7.0.0)
+  - SwiftMessages/App (7.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - PKHUD (~> 5.0)
+  - SDWebImage (~> 4.0)
+  - SwiftDate (~> 5.0)
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PKHUD
+    - SDWebImage
+    - SwiftDate
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  PKHUD: 4e6162c4c39ac367c6934e9855c6b4762ee16256
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftDate: 6329e58969a2de31cea7f1ee1143b247693196e7
+  SwiftMessages: a952f7a9103d9aeab93730a2861d2d8fcdd8758f
+
+PODFILE CHECKSUM: ad25343c031caef51638005c83bb2311a26a52f7
+
+COCOAPODS: 1.5.3
