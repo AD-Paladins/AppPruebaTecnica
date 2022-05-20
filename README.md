@@ -18,4 +18,20 @@ A responsible app with collectionView application and a Http GET resource
 Hope you find it useful!
 
 
-![alt tag](http://i.imgur.com/6O2Qmxq.jpg)
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/1.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/2.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/3.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/4.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/5.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/6.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/7.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/8.png)
+
+![alt tag](https://raw.githubusercontent.com/titopalito/AppPruebaTecnica/master/media/9.png)
